@@ -208,7 +208,7 @@ form {
 .contact
 input[type="text"],
 .contact
-input[type="emial"] {
+input[type="email"] {
     flex-basis: 40%;
     padding: 15px;
     margin-bottom: 15px;
